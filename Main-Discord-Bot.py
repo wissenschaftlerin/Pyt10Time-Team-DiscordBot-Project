@@ -38,5 +38,5 @@ async def on_message(message):
     elif message.content.startswith('-bitir'):
         quit()
     
-client.run('token') #token kısmına discord botumuzun token kısmını giriyoruz.
+client.run('token') #token kısmına discord botumuzdan aldığımız token kısmını giriyoruz.
 
