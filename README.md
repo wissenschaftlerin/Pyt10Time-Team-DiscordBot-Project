@@ -25,6 +25,6 @@ Ayrıca -başlat komutunda sayı girilmediğinde bizi yanlış komut girdiğimiz
 ![notlar-kaynaklar - Discord 29 08 2021 03_27_37](https://user-images.githubusercontent.com/72699045/131234298-465de40b-1d87-4e46-9a19-8b40fa38d95b.png)
 
 
-Botu nasıl kullanacağınızı bilmiyorsanız -yardım komutuyla bottan yardım da alabilirsinziz.
+Botu nasıl kullanacağınızı bilmiyorsanız -yardım komutuyla bottan yardım da alabilirsiniz.
 
 
