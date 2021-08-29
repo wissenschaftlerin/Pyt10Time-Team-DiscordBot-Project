@@ -12,12 +12,17 @@ https://www.youtube.com/watch?v=7hikXPEPlKg
 
 ![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (2)](https://user-images.githubusercontent.com/72699045/131234114-79830f23-62d4-4195-83fd-f80b77d0b424.png)
 
-Geriye doğru sayıp bir çalar saat görevi görüyor.
+Geriye doğru sayıp bir çalar saat görevi görüyor.![notlar-kaynaklar - Discord 29 08 2021 03_27_37](https://user-images.githubusercontent.com/72699045/131234274-c0ab3cc7-87a9-4869-873f-c4a95aaad1e1.png)
+
 
 
 ![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (3)](https://user-images.githubusercontent.com/72699045/131234136-f95c9ba9-67eb-40ce-a6cc-baf32e5c8331.png)
 
 Ayrıca -başlat komutunda sayı girilmediğinde bizi yanlış komut girdiğimize dair uyarıyor.
 -bitir komutuyla da sonlandırabiliyoruz.
+
+![Uploading notlar-kaynaklar - Discord 29.08.2021 03_27_37.png…]()
+
+Botu nasıl kullanacağınızı bilmiyorsanız -yardım komutuyla bottan yardım da alabilirsinziz.
 
 
