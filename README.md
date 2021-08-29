@@ -10,7 +10,7 @@ CourseBuddies Eğitim programı çerçevesinde Pyth10Time ekibi olarak bu projed
 Projemizi anlattığımız detaylı videoya bu linkten ulaşabilirsiniz:
 https://www.youtube.com/watch?v=7hikXPEPlKg
 
-![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (2)](https://user-images.githubusercontent.com/72699045/131234114-79830f23-62d4-4195-83fd-f80b77d0b424.png)
+![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (2)](https://user-images.githubusercontent.com/72699045/131234114-79830f23-62d4-4195-83fd-f80b77d0b424.png)/n
 Geri sayıp bir çalar saat görevi görüyor.
 
 
