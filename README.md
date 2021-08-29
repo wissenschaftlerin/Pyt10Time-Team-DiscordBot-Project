@@ -11,5 +11,12 @@ Projemizi anlattığımız detaylı videoya bu linkten ulaşabilirsiniz:
 https://www.youtube.com/watch?v=7hikXPEPlKg
 
 ![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (2)](https://user-images.githubusercontent.com/72699045/131234114-79830f23-62d4-4195-83fd-f80b77d0b424.png)
+Geri sayıp bir çalar saat görevi görüyor.
+
+
+![notlar-kaynaklar - Discord 29 08 2021 03_13_51 (3)](https://user-images.githubusercontent.com/72699045/131234136-f95c9ba9-67eb-40ce-a6cc-baf32e5c8331.png)
+
+Ayrıca -başlat komutunda sayı girilmediğinde bizi yanlış komut girdiğimize dair uyarıyor.
+-bitir komutuyla da sonlandırabiliyoruz.
 
 
