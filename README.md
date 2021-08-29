@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=7hikXPEPlKg
 
 ## Botu nasıl kullanacağınızı bilmiyorsanız -yardım komutuyla bottan yardım da alabilirsiniz.
 
-## Projemizin kodlarına repo içindeki [Main-Discord-Bot.py](https://github.com/wissenschaftlerin/Pyt10Time-Team-DiscordBot-Project/blob/main/Main-Discord-Bot.py) dosyasından inceleyebilirsiniz.
+## Projemizin kodlarını repo içindeki [Main-Discord-Bot.py](https://github.com/wissenschaftlerin/Pyt10Time-Team-DiscordBot-Project/blob/main/Main-Discord-Bot.py) dosyasından inceleyebilirsiniz.
 
 # ⌛ Pyth10Time Takım Üyeleri
 
