@@ -32,3 +32,9 @@ https://www.youtube.com/watch?v=7hikXPEPlKg
 
 ## Projemizin kodlarına repo içindeki [Main-Discord-Bot.py](https://github.com/wissenschaftlerin/Pyt10Time-Team-DiscordBot-Project/blob/main/Main-Discord-Bot.py) dosyasından inceleyebilirsiniz.
 
+# Pyth10Time Takım Üyeleri
+
+Dilara TEKİN
+Mehmet Safa ATA
+Zeynep Feyza ATABEY
+
